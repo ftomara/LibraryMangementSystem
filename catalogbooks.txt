@@ -1,0 +1,17 @@
+Martian,Andy Weir,Sci-Fi,978-0-316-02113-4,true,false
+Alchemist,Paulo Coelho,Fiction,978-0-06-112073-3,true,false
+Lord of the Rings,J.R.R. Tolkien,Fantasy,978-0-345-39195-8,true,false
+To Kill a Mockingbird,Harper Lee,Fiction,978-0-449-25321-8,true,false
+1984,George Orwell,Dystopian Fiction,978-0-451-52334-8,true,false
+The Da Vinci Code,Dan Brown,Thriller,978-0-06-050811-0,true,false
+Hunger Games,Suzanne Collins,Dystopian Fiction,978-0-06-050811-3,true,false
+Kite Runner,Khaled Hosseini, Fiction, 978-0-307-40873-1, true, false
+Book Thief,Markus Zusak, Historical Fiction, 978-0-375-82426-2, true, false
+Things They Carried,Tim O'Brien, War Fiction, 978-0-375-70690-7, true, false
+Hitchhiker's Guide to the Galaxy,Douglas Adams, Sci-Fi, 978-0-345-40056-8, true, false
+Catcher in the Rye,J.D. Salinger,Fiction, 978-0-449-22470-2, true, false
+Harry Potter and the Sorcerer's Stone,J.K. Rowling, Fantasy, 978-0-545-58288-6, true, false
+Lord of the Rings trilogy,J.R.R. Tolkien, Fantasy, 978-0-345-39195-8, true, false
+Great Gatsby,F. Scott Fitzgerald, Fiction, 978-0-449-21313-0, true, false
+Adventures of Sherlock Holmes,Sir Arthur Conan Doyle, Mystery, 978-0-451-52334-8, true, false
+Girl with the Dragon Tattoo,Stieg Larsson, Thriller, 978-0-553-81260-8, true, false
